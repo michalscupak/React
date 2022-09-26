@@ -1,0 +1,8 @@
+.form {
+    display: inline-grid;
+    padding-left: 10px;
+}
+
+.label {
+    margin-top: 5px;
+}
